@@ -1,0 +1,6 @@
+testing github
+
+cd into your repository
+git add test.txt
+git commit -m "Added a txt file"
+git push
